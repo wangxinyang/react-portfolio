@@ -8,9 +8,9 @@
 
 ## Capture
 
-![bookmaker](./capatures/pic1.png)
-![league](./capatures/pic2.png)
-![team](./capatures/pic3.png)
+![pic1](./captures/pic1.png)
+![pic2](./captures/pic2.png)
+![pic3](./captures/pic3.png)
 
 ## How to use it
 
