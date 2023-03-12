@@ -75,36 +75,43 @@
         "id": "1",
         "dates": "3月 2023 - Present",
         "type": "Full Time",
-        "position": "Backend Engineer at Java",
+        "position": "Backend Engineer at Java, Angular",
         "bullets": "三井ファイナス＆リース刷新システム"
       },
       {
         "id": "2",
         "dates": "1月 2022 - 2月 2023",
         "type": "Full Time",
-        "position": "Backend Engineer at Java",
+        "position": "Backend Engineer at Go",
         "bullets": "IYEC販売サイトと管理システムの開発"
       },
       {
         "id": "3",
-        "dates": "6月 2019 - 12月 2021",
+        "dates": "4月 2021 - 12月 2021",
         "type": "Full Time",
         "position": "Full Stack Engineer with Go, Rust, React etc.",
         "bullets": "GenkiとStarbucks販売システム作業"
       },
       {
+        "id": "3",
+        "dates": "8月 2020 - 4月 2021",
+        "type": "Full Time",
+        "position": "Full Stack Engineer with Java, SpringMVC etc.",
+        "bullets": "役所管理システム作業"
+      },
+      {
         "id": "4",
+        "dates": "6月 2019 - 7月 2020",
+        "type": "Full Time",
+        "position": "Full Stack Engineer with Java, JSF etc.",
+        "bullets": "クレジットカードの督促システム作業"
+      },
+      {
+        "id": "5",
         "dates": "3月 2015 - 5月 2019",
         "type": "Full Time",
         "position": "Full Stack Engineer with Go, Vue2",
         "bullets": "越境ECサイト"
-      },
-      {
-        "id": "5",
-        "dates": "7月 2006 - 2月 2015",
-        "type": "Full Time",
-        "position": "Senior Engineer with Java",
-        "bullets": "Some Company Portal site, management system"
       }
     ],
     "education": {
